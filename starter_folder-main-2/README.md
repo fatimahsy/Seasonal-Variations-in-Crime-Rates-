@@ -4,7 +4,8 @@
 
 This repo contains code and output for my paper on the correlation between winter and crime rates in Toronto in 2022. 
 Data from opendatatoronto was analysed and discussed. 
-Explanationsss
+Explanation
+
 
 ## File Structure
 
